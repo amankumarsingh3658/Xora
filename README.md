@@ -2,6 +2,15 @@
 
 Welcome to the landing page for **AI Video Editor**, a SaaS-based platform that helps users edit videos using the power of AI. This landing page showcases the key features, testimonials, pricing plans, and offers downloads for different platforms.
 
+![Xora landing page hero section](screenshots/hero.jpg)
+
+<details>
+<summary>More screenshots</summary>
+
+![Xora pricing section](screenshots/pricing.jpg)
+
+</details>
+
 ## Table of Contents
 
 - [Hero Section](#hero-section)
